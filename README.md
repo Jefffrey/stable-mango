@@ -1,9 +1,5 @@
 # stable-mango
 
-Chart.js from `https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js`
-
-JQuery from `https://code.jquery.com/jquery-3.5.1.min.js`
-
 Setup:
 
 ```bash

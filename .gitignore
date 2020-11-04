@@ -1,6 +1,8 @@
 # Pycharm settings
 .idea/
 *.db
+*.db-shm
+*.db-wal
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
